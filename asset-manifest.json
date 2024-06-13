@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/smart-mask/static/css/main.2e5d346d.css",
-    "main.js": "/smart-mask/static/js/main.2ad1c805.js",
+    "main.css": "/smart-mask/static/css/main.7faf9c01.css",
+    "main.js": "/smart-mask/static/js/main.b6b587a2.js",
     "static/media/png": "/smart-mask/static/media/9eb2a282cb49206a404ced6913006692.9177a15b30e445337ccc.png",
     "index.html": "/smart-mask/index.html",
-    "main.2e5d346d.css.map": "/smart-mask/static/css/main.2e5d346d.css.map",
-    "main.2ad1c805.js.map": "/smart-mask/static/js/main.2ad1c805.js.map"
+    "main.7faf9c01.css.map": "/smart-mask/static/css/main.7faf9c01.css.map",
+    "main.b6b587a2.js.map": "/smart-mask/static/js/main.b6b587a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e5d346d.css",
-    "static/js/main.2ad1c805.js"
+    "static/css/main.7faf9c01.css",
+    "static/js/main.b6b587a2.js"
   ]
 }
